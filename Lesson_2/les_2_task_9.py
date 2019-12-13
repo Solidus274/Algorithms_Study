@@ -14,4 +14,4 @@ while n != 0:
         max_s = s
         max_m = m
     n = int(input())
-print('Число', max_m, 'имеет максимальную сумму цифр:', max_s)
+print(f'Число {max_m} имеет максимальную сумму цифр: {max_s}')
